@@ -9,6 +9,7 @@ namespace SimuladorTraficoVehicular
     {
         /// <summary>
         /// Punto de entrada principal para la aplicación.
+        //Hola modificado
         /// </summary>
         [STAThread]
         static void Main()
